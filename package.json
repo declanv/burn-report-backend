@@ -1,0 +1,19 @@
+{
+  "name": "burn-report-backend",
+  "version": "1.0.0",
+  "description": "api for burn-report app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/declanv/burn-report-backend.git"
+  },
+  "author": "Declan Van Welie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/declanv/burn-report-backend/issues"
+  },
+  "homepage": "https://github.com/declanv/burn-report-backend#readme"
+}
